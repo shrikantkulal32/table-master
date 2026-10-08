@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Table Master</string>
+    <string name="tagline">Tables, Squares, Cubes &amp; Mental Math</string>
+    <string name="btn_start_practice">Start Practice</string>
+    <string name="btn_custom_practice">Custom Mode</string>
+    <string name="btn_scoreboard">Scoreboard</string>
+    <string name="btn_study_chart">Study Charts</string>
+    <string name="btn_review_mistakes">Mistake Review</string>
+    <string name="mode_tables">Tables</string>
+    <string name="mode_squares">Squares</string>
+    <string name="mode_cubes">Cubes</string>
+    <string name="mode_random">Randomized</string>
+    <string name="mode_all_mixed">Mixed Challenge</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="difficulty_custom">Custom</string>
+    <string name="next_question">Next Question</string>
+    <string name="correct_blink">Correct!</string>
+    <string name="wrong_answer">Incorrect!</string>
+</resources>
